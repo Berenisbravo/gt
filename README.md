@@ -1,10 +1,8 @@
 <html>
-<head><title>CURSO DE HTML</title></head>
 <body bgcolor="darkorange" text="greenyellow">
 <center><h1>GALLETAS CROCANTES</h1></center><br>
 <center>
-<img src="https://live.hsmob.io/storage/images/recetasdecocina.elmundo.es/recetasdecocina.elmundo.
-es_wp-content_cookies-receta.jpg" width=80% alt="GALLETA"><br><br>
+<img src="https://i.ytimg.com/vi/SZdTJ6Ji3Ec/maxresdefault.jpg" width=80% alt="GALLETA"><br><br>
 </center>
 <center>
 Ingredientes<br><br>
