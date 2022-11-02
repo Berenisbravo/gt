@@ -17,9 +17,7 @@ Ingredientes<br><br>
 Si quiere saber más de las decoraciones ¡contactanos ya!<br><br>
 ¿QUIÉRES SABER COMO ES QUE NOS SALEN LAS GALLETAS CRUJIENTES? ¡AQUI TENEMOS NUESTRO SECRETO!: <br><br>
 <body>
- <iframe width="500" height="315" src="https://www.youtube.com/embed/Au_e-byGcSc"
- title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
- clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="center"></iframe><br>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Au_e-byGcSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
  <br>
  <head>
  <a href="https://berenisbravo.github.io/Sucrette/"> VOLVER A LA PÁGINA INICIAL</a><br>
