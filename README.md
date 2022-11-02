@@ -7,11 +7,6 @@
 es_wp-content_cookies-receta.jpg" width=80% alt="GALLETA"><br><br>
 </center>
 <center>
-<body>
-<audio src="https://drive.google.com/file/d/18W-sBkSISgxDVw8bxDdi3XrG24tnBo9E/view?usp=drivesdk.mp3" controls=""></audio><br>
-<br>
-</center>
-<center>
 Ingredientes<br><br>
 ● Harina, 180 g<br><br>
 ● Mantequilla, 120 g<br><br>
